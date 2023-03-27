@@ -17,8 +17,11 @@ I'm Mark, a 19-year-old React JS developer with 5 years of experience.
 ### 🌟 My Projects
 
 Here are some of my notable projects that I have worked on:
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=loya)](https://github.com/fN9ne/loya)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=tetris_react)](https://github.com/fN9ne/tetris_react)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=pricker)](https://github.com/fN9ne/pricker)
 
 ### 📫 How to reach me
