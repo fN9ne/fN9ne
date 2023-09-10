@@ -20,10 +20,6 @@ Here are some of my notable projects that I have worked on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=loya)](https://github.com/fN9ne/loya)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=anidata)](https://github.com/fN9ne/anidata)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fN9ne&repo=pricker)](https://github.com/fN9ne/pricker)
-
 ### 📫 How to reach me
 
 Feel free to contact me at:
